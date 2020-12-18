@@ -8,11 +8,14 @@ Within the notebook, several of these libraries have been imported.
 Namely the usage of such modules occured.
 
 Python random module - https://docs.python.org/3/library/random.html
+
 NumPy - https://numpy.org/doc/stable/
+
 Seaborn - https://seaborn.pydata.org/index.html
+
 Matplotlib - https://matplotlib.org/index.html
 
-Importation and utilisaton of these libraries occured through the commands below
+## Importation and utilisaton of these libraries occured through the commands below
 ``` python
 import random
 import matplotlib.pyplot as plt 
